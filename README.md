@@ -1,4 +1,7 @@
 # minesweeper
+
+Minesweeper written in C++ with SDL2 
+
 <img width="964" alt="6" src="https://github.com/bengiada/minesweeper/assets/120020573/371514df-cbd1-4a93-9b5e-fc4120a9e763">
 
 <img width="968" alt="7" src="https://github.com/bengiada/minesweeper/assets/120020573/b30ea885-e7fe-44ac-9b88-d3bf72ee7ff5">
